@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PracialPOO</string>
+    <string name="login">Iniciar de Sesión</string>
+    <string name="signin">Registrarse</string>
+    <string name="back">Atras</string>
+    <string name="email">Correo electronico</string>
+    <string name="password">Contraseña</string>
+    <string name="name">Nombre</string>
+    <string name="lastname">Apellido</string>
+    <string name="nickname">Nickname</string>
+    <string name="repassword">Repita la contraseña</string>
+    <string name="age">Edad</string>
+    <string name="student">Estudiante</string>
+    <string name="teacher">Profesor</string>
+    <string name="comment">Comentar</string>
+    <string name="myComments">Mis comentarios</string>
+    <string name="allComments">Todos los comentarios</string>
+</resources>

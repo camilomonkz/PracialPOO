@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142696131779",
+    "project_id": "parcialpoo-f3e6f",
+    "storage_bucket": "parcialpoo-f3e6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142696131779:android:ac1a01e3b78c91d46d4676",
+        "android_client_info": {
+          "package_name": "com.example.pracialpoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142696131779-hhsijtpfupp543r43j51tt80cg66dq6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwlK49L9DeP_ZoM-Gy2rpfrMVu2X5TTAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142696131779-hhsijtpfupp543r43j51tt80cg66dq6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
